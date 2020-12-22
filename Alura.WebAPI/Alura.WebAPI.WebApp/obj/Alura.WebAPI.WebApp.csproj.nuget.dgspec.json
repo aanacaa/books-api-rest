@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj": {}
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
         "projectName": "Alura.WebAPI.DAL.Livros",
-        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
-                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
+              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
         "projectName": "Alura.WebAPI.DAL.Usuarios",
-        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
         "projectName": "Alura.WebAPI.Model",
-        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,14 +203,14 @@
         }
       }
     },
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
         "projectName": "Alura.WebAPI.Seguranca",
-        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -264,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
         "projectName": "Alura.WebAPI.WebApp",
-        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -288,17 +288,17 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
-                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
+              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
+                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
               },
-              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
-                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
+              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
+                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
               },
-              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
-                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
+              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
               },
-              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
-                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
+              "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
+                "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
               }
             }
           }
@@ -314,6 +314,10 @@
           "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
               "target": "Package",
               "version": "[2.1.0, )"
             },

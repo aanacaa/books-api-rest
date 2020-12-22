@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yl90i+KZ4vfAovBNC4DC8Vnx5/vcG/+SmNjvY3Xa0qZeX2GuT/cX7Xn7epyfN+zlj5XbjaJT/QVwK6VOtFTxZA==",
+  "dgSpecHash": "SkmoRu5u2LGi8rn5qYqoxTc5nxUc/aDnqDRqH+uWVH3b2nzZvcOvDvO92SRRpuTBpe34M0Kghwz4Qq0ZGniVqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.4\\microsoft.aspnet.webapi.client.5.2.4.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore\\2.1.0\\microsoft.aspnetcore.2.1.0.nupkg.sha512",

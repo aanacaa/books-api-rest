@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbksqTp8uRW95KcsrG/Y6OQAcAn9PcywSEOszdva65d7XJsVInImiMW0YAoaxbBytJ6RNOPVwIM04+KNqcu5WQ==",
+  "dgSpecHash": "DbTR1eUBonZADuAmliVMDdWKsl2qyQUN0wAXBu8m4Jru8Kfdzdvrx5Z2pPi2LQ2XQxjalT5kEOFJc5o690HSRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
+  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.0\\microsoft.entityframeworkcore.2.1.0.nupkg.sha512",

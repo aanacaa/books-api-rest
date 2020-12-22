@@ -4127,11 +4127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+      "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
       "projectName": "Alura.WebAPI.DAL.Usuarios",
-      "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
+      "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj",
       "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
+      "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",

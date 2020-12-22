@@ -5486,11 +5486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+      "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
       "projectName": "Alura.WebAPI.Seguranca",
-      "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+      "projectPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
       "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
+      "outputPath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sh3Fg4LV0NUCsqOVMWxChJ/T0jPdDtvnsJWgDk1wRwPdf6IYSLdch5JI7swDNQpJDPrhUC43Eu+ZmT0jL3T7Gg==",
+  "dgSpecHash": "ckqjfrCIAIRcEQQMvqutSva0f1c4VJVjbGZ6ptRbbB0dkbX6G55EpGlStoOjtjr+JleQw/Pldqr8Cucy38u0hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\API_REST\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
+  "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
