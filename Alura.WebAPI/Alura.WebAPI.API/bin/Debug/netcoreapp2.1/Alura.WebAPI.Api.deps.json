@@ -29,7 +29,8 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Mvc.Versioning": "2.3.0",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
-          "Microsoft.NETCore.App": "2.1.0"
+          "Microsoft.NETCore.App": "2.1.0",
+          "System.Linq.Dynamic.Core": "1.2.7"
         },
         "runtime": {
           "Alura.WebAPI.Api.dll": {}
@@ -53,6 +54,17 @@
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
+      "System.Linq.Dynamic.Core/1.2.7": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.7.0",
+            "fileVersion": "1.2.7.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {}
+        }
+      },
       "Alura.WebAPI.DAL.Livros/1.0.0": {
         "dependencies": {
           "Alura.WebAPI.Model": "1.0.0",
@@ -3219,6 +3231,13 @@
       "sha512": "sha512-fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hashPath": "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5m38/z1CrZ6Ul+1fSLh0J1ij0MNmllppxHPF9IaBzoeTARQDtS7zM0mGMrYFCwpE2Ditx17gBPCv5YC95OhTSA==",
+      "path": "system.linq.dynamic.core/1.2.7",
+      "hashPath": "system.linq.dynamic.core.1.2.7.nupkg.sha512"
     },
     "Alura.WebAPI.DAL.Livros/1.0.0": {
       "type": "project",

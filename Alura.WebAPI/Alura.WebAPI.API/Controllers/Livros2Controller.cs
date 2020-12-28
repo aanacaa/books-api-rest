@@ -1,4 +1,7 @@
-﻿using Alura.ListaLeitura.Modelos;
+﻿using Alura.ListaLeitura.Filtro;
+using Alura.ListaLeitura.Modelos;
+using Alura.ListaLeitura.Ordenacao;
+using Alura.ListaLeitura.Paginacao;
 using Alura.ListaLeitura.Persistencia;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -25,13 +28,24 @@ namespace Alura.ListaLeitura.Api.Controllers
         }
 
         [HttpGet]
-        public IActionResult ListaDeLivros()
+        public IActionResult ListaDeLivros(
+            [FromQuery] LivroFiltro filtro,
+            [FromQuery] LivroOrdem ordem,
+            [FromQuery] LivroPaginacao paginacao)
         {
-            var lista = _repo.All.Select(l => l.ToApi()).ToList();
-            return Ok(lista);
+            var lista = _repo.All
+                .AplicaFiltro(filtro)
+                .AplicaOrdenacao(ordem)
+                .Select(l => l.ToApi());
 
+            var listaPaginada = LivroPaginado.From(paginacao, lista);
+
+            if (listaPaginada.Resultado.Count == 0)
+            {
+                return NotFound();
+            }
+            return Ok(listaPaginada);
         }
-
 
         [HttpGet("{id}")]
         public IActionResult Recuperar(int id)
