@@ -4,6 +4,7 @@ using Alura.ListaLeitura.Persistencia;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -55,8 +56,14 @@ namespace Alura.WebAPI.Api
                     ValidAudience = "Postman",
                 };
             });
-
-
+            services.AddApiVersioning();
+            //services.AddApiVersioning(options =>
+            //{
+            //    options.ApiVersionReader = ApiVersionReader.Combine(
+            //        new QueryStringApiVersionReader("api-version"), 
+            //        new HeaderApiVersionReader("api-version")
+            //        ) ;
+            //});
 
 
         }

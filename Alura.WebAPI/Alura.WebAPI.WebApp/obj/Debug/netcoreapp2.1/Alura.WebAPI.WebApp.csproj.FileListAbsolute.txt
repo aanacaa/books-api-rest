@@ -47,12 +47,8 @@ C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAP
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
-C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
-C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
-C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
-C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
 C:\Users\anaca\OneDrive\Documents\GitHub\books_api_rest\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache

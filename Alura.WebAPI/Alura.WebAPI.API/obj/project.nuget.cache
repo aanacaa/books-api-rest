@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "taefRFbHoh8IQ7aRHbtmBYwYUKQXL9AwzV+UqGdHkq8B69xWvHRYAoBNs+IObtnk3MERF08jWv0rTZ/Kypr3KA==",
+  "dgSpecHash": "dW18V2C3wS4FZ5KKd9uPknKFOw4lZcFaAF+rOd6n57acHexTCXo7+UP2SXeGl0oRpASwVDVAKBF6iHmGTS/QEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\anaca\\OneDrive\\Documents\\GitHub\\books_api_rest\\Alura.WebAPI\\Alura.WebAPI.API\\Alura.WebAPI.Api.csproj",
   "expectedPackageFiles": [
@@ -68,6 +68,7 @@
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.viewcompilation\\2.1.1\\microsoft.aspnetcore.mvc.razor.viewcompilation.2.1.1.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.mvc.razorpages\\2.1.1\\microsoft.aspnetcore.mvc.razorpages.2.1.1.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.mvc.taghelpers\\2.1.1\\microsoft.aspnetcore.mvc.taghelpers.2.1.1.nupkg.sha512",
+    "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\2.3.0\\microsoft.aspnetcore.mvc.versioning.2.3.0.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.1.1\\microsoft.aspnetcore.mvc.viewfeatures.2.1.1.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\2.1.1\\microsoft.aspnetcore.nodeservices.2.1.1.nupkg.sha512",
     "C:\\Users\\anaca\\.nuget\\packages\\microsoft.aspnetcore.owin\\2.1.1\\microsoft.aspnetcore.owin.2.1.1.nupkg.sha512",

@@ -7,15 +7,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Alura.WebAPI.WebApp.Api
-{   [Authorize]
+namespace Alura.ListaLeitura.Api.Controllers
+{
+    [Authorize]
     [ApiController]
-    [Route("api/[controller]")]
-    public class LivrosController : ControllerBase
+    [ApiVersion("2.0")]
+    [Route("api/v{version:apiVersion}/livros")]
+    //[Route("api/livros")]
+
+    public class Livros2Controller : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
 
-        public LivrosController(IRepository<Livro> repository)
+        public Livros2Controller(IRepository<Livro> repository)
         {
             _repo = repository;
         }
@@ -37,7 +41,7 @@ namespace Alura.WebAPI.WebApp.Api
             {
                 return NotFound();
             }
-            return Ok(model.ToApi());
+            return Ok(model);
         }
 
         [HttpGet("{id}/capa")]
@@ -57,7 +61,7 @@ namespace Alura.WebAPI.WebApp.Api
 
 
         [HttpPost]
-        public IActionResult Incluir([FromBody] LivroUpload model)
+        public IActionResult Incluir([FromForm] LivroUpload model)
         {
             if (ModelState.IsValid)
             {
@@ -72,7 +76,7 @@ namespace Alura.WebAPI.WebApp.Api
 
 
         [HttpPut]
-        public IActionResult Alterar([FromBody] LivroUpload model)
+        public IActionResult Alterar([FromForm] LivroUpload model)
         {
             if (ModelState.IsValid)
             {
